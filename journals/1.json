@@ -1,8 +1,3 @@
-{
-  "id": 1,
-  "first_name": "Dag",
-  "last_name": "Chaudron",
-  "email": "dchaudron0@gravatar.com",
-  "gender": "Non-binary",
-  "ip_address": "113.226.12.28"
-}
+{ "id": 1, "first_name": "Dag", "last_name": "Chaudron", "email": "dchaudron0@gravatar.com", "gender": "Non-binary", "ip_address": "113.226.12.28" }
+{ "id": 2, "first_name": "Emmey", "last_name": "Shrieves", "email": "eshrieves1@surveymonkey.com", "gender": "Non-binary", "ip_address": "38.206.50.183" }
+{ "id": 3, "first_name": "Dorie", "last_name": "Chaudron", "email": "dbenyon2@gnu.org", "gender": "Genderfluid", "ip_address": "210.232.239.42" }
